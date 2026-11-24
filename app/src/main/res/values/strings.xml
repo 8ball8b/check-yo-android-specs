@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Donanım Sorgu</string>
+    <string name="subtitle">Bu Android cihazın donanım bilgileri</string>
+    <string name="info_row">%1$s: %2$s</string>
+</resources>
