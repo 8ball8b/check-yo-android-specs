@@ -1,6 +1,6 @@
 # Donanım Sorgu Android
 
-Bu uygulama, çalıştığı Android cihazın CPU, RAM, GPU ve cihaz/anakart bilgilerini tek ekranda görüntüler. Mor menüsü ve yeşil donanım bilgileriyle hızlıca inceleme yapabilir; Windows bilgisayarı sorgulamaz ve özel izin istemez.
+Bu uygulama, çalıştığı Android cihazın CPU, RAM, GPU ve cihaz/anakart bilgilerini tek ekranda görüntüler.
 
 ## Derleme
 
